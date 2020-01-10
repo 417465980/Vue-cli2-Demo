@@ -1,0 +1,28 @@
+.DS_Store
+node_modules/
+dist/
+
+# log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+package-lock.json
+yarn.lock
+
+#local env files
+.env.local
+.enc.*.local
+
+#Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+*.lock
+*.zip
+*.gitee
+.gitee
